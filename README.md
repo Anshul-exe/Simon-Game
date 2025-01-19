@@ -27,3 +27,7 @@ The game tests and improves your memory and attention skills.
    ```
 2. Open the project folder.
 3. Open `index.html` in your preferred browser.
+
+## Demo
+
+[Play Simon Game](https://anshul-exe.github.io/Simon-Game/)
