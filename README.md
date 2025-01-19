@@ -18,3 +18,12 @@ The game tests and improves your memory and attention skills.
 3. Click on the buttons in the same order as shown by the computer.
 4. If you complete the sequence correctly, the game progresses to the next level with an additional step in the sequence.
 5. If you make a mistake, the game ends, and you can restart.
+
+## Installation
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/simon-game.git
+   ```
+2. Open the project folder.
+3. Open `index.html` in your preferred browser.
